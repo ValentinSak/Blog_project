@@ -12,4 +12,8 @@ It also contains:
 - fulltext search
 - user system
 - authentication through google and github accounts
-- 
+- user profile system
+- django summernote WYSIWYG
+- REST API using DRF (I know, that you don't need that in a blog, but in case of studies I hope it's ok)
+- dynamic API scheme using .yml format
+- dynamic API redoc and swagger-ui schemes
